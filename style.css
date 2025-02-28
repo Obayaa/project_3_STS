@@ -39,7 +39,6 @@ body{
     height: fit-content;
     position: absolute;
     top: 8rem;
-    /* left: 5rem; */
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -78,7 +77,6 @@ body{
 }
 .project_btn{
     background-color: #FDC435;
-    border: none;
 }
 .linkedin_btn{
     background-color: white;
