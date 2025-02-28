@@ -58,11 +58,13 @@ body{
     display: flex;
     gap: 12px;
 }
-button{
+.btn a{
     padding: 8px 24px;
     border-radius: 8px;
     font-size: 18px;
     cursor: pointer;
+    text-decoration: none;
+    color: black;
 }
 .project_btn{
     background-color: #FDC435;
